@@ -3,7 +3,7 @@ import polyline
 import openpyxl as pyxl
 ##https://medium.com/future-vision/google-maps-in-python-part-2-393f96196eaf
 
-api_key = "AIzaSyCIz_s7Smhw6cpYN28gRE5lzyRgXrYPz-U"
+api_key = "______________"
 gmaps = googlemaps.Client(key = api_key)
 
 'Specify Location and Hike Name'
